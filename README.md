@@ -61,6 +61,8 @@
 
 # Helpufull commands
 
+git config --global --edit
+
 
 git diff <file>
 git add -p <file> # To add only specific file
